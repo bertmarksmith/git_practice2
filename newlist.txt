@@ -1,4 +1,16 @@
+FRUIT AN VEG
 Bananas
 Strawberries
 Apples
 Peaches
+
+MEAT
+
+
+DAIRY
+
+
+HOUSEHOLD
+
+
+PETS
