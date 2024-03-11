@@ -11,7 +11,11 @@ Lamb
 Beef
 Rabbit
 DAIRY
-
+Milk
+Eggs
+Yoghurt
+Butter
+Cheese
 
 HOUSEHOLD
 
